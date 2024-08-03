@@ -1,0 +1,203 @@
+.nav-text{
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.containerwidth {
+    width: 100%;
+}
+
+.wrapper {
+    border: 1px solid #fff;
+    padding: 0px 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    color: #fff;
+    -webkit-box-shadow: 0 15px 25px rgba(0, 0, 50, 0.2);
+    box-shadow: 0 15px 25px rgba(0, 0, 50, 0.2);
+}
+
+.toggle,
+.content {
+    font-family: "Poppins", sans-serif;
+}
+
+.toggle {
+    width: 100%;
+    background-color: transparent;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 600;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 15px 0px;
+    border-bottom: 1px solid #fff;
+
+}
+.content {
+    position: relative;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 30px;
+    height: 0;
+    overflow: hidden;
+    -webkit-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+
+
+.gradientText {
+    -webkit-text-fill-color: #0000;
+    text-fill-color: #0000!important;
+    background: linear-gradient(90deg,#ae8625 -3.12%,#f7ef8a 29.71%,#d2ac47 73.6%,#edc967 102.14%)!important;
+    -webkit-background-clip: text!important;
+    background-clip: text!important;
+    font-weight: 800;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.price-h2{
+    -webkit-text-fill-color: #0000;
+    text-fill-color: #0000!important;
+    background: linear-gradient(90deg,#ae8625 -3.12%,#f7ef8a 29.71%,#d2ac47 73.6%,#edc967 102.14%)!important;
+    -webkit-background-clip: text!important;
+    background-clip: text!important;
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 15px;
+}
+.ExcitingText{
+    -webkit-text-fill-color: #0000;
+    text-fill-color: #0000!important;
+    background: linear-gradient(90deg,#ae8625 -3.12%,#f7ef8a 29.71%,#d2ac47 73.6%,#edc967 102.14%)!important;
+    -webkit-background-clip: text!important;
+    background-clip: text!important;
+    font-weight: 800;
+    /* margin-top: 50px;
+    margin-bottom: 50px; */
+    font-size: 20px;
+    text-align: left;
+
+}
+.Abstract-h3{
+    color: #fff;
+    text-align: left;
+    font-weight: 700;
+    font-size: 22px;
+}
+.Welcome-h3{
+    color: #fff;
+    text-align: left;
+    font-weight:600;
+    font-size: 22px;
+    margin-top: 60px ; 
+}
+.Token-h3{
+    color: #fff;
+    text-align: center;
+    font-weight: 600;
+    font-size: 17px;
+}
+.JackpotMagickCity-p{
+  color: #fff;
+  text-align: left;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 30px;
+}
+.Participate-p{
+    color: #fff;
+  text-align: left;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 30px;
+}
+.Initial-p{
+    color: #fff;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.box-card{
+    background-color: #181718;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    width: 32%;
+}
+
+.box-width{
+    background-color: #000000;
+    box-shadow: 0 0 10px rgba(183, 183, 183, 0.5); 
+    border-radius: 15px;
+}
+.box-down{
+    background-color: #3F3F3F;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.minimum-span{
+    font-size: 14px;
+    color: darkgray;
+    text-align: left;
+}
+.Participants-div{
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.custom-hr {
+    background-color: rgb(255, 255, 255); 
+    width: 20%; 
+    height: 1px; 
+    border: none;
+  }
+
+
+  .input-group-text {
+    display: flex;
+    align-items: center;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #cccccc;
+    border: none;
+    width: 50px;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 0.475rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.USDT-text{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.connect-button{
+    background: linear-gradient(90deg,#ae8625 -3.12%,#f7ef8a 29.71%,#d2ac47 73.6%,#edc967 102.14%)!important;
+    border: none;
+    font-weight: 600;
+    font-size: 18px;
+    color: #181718;
+}
